@@ -1,0 +1,6 @@
+pandas
+requests
+nltk
+bs4
+syllapy
+xlsxwriter
